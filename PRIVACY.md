@@ -2,7 +2,7 @@
 
 ## 1. Information We Collect
 We collect the following information:
-- Personal details: such as name, email address, etc.
+- Personal details: such as JINSHENG CHEN, 332313325@qq.com, etc.
 - Usage data: When you visit our website, we may collect information such as your IP address, browser type, visit time, etc.
 
 ## 2. How We Use Your Information
